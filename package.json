@@ -1,0 +1,18 @@
+{
+  "name": "eslint-plugin-react-admin-kw",
+  "version": "2.2.0",
+  "description": "React Admin ESLint rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "publish": "npm publish --access public"
+  },
+  "author": "krzysztof witkowski",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
