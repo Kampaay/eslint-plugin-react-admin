@@ -1,5 +1,6 @@
 module.exports = {
     rules: {
-        'noNativeInput': require('./noNativeInput')
+        'noNativeInput': require('./noNativeInput'),
+        'noNativeHook': require('./noNativeHook')
     },
 };
