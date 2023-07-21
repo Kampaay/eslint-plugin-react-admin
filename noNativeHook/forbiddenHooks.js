@@ -1,5 +1,9 @@
-module.exports = [
-   'RecordContext',
-   'ResourceContext',
-   'GetList'
-]
+module.exports =
+    [
+        'RecordContext',
+        'ResourceContext',
+        'GetList',
+        'Create',
+        'Update',
+        'Input',
+    ]
